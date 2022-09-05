@@ -4,7 +4,7 @@ The project creates short links and maintains statistics on the views of these l
 ### Install
 Copy project and install the react and other libraries:
 ```
-git clone https://github.com/ytpt/sqeezeLink.git squeeze
+git clone https://github.com/ytpt/squeezeLink.git squeeze
 cd squeeze
 npm install
 ```
