@@ -1,0 +1,25 @@
+.statsBlock {
+    text-align: center;
+}
+
+.inputBody {
+    margin: 15px ;
+    padding: 5px;
+}
+
+.paginationBlock button{
+    margin: 5px;
+    padding: 5px 10px;
+}
+
+table {
+    margin: 20px auto;
+}
+
+thead > tr > th{
+    padding: 20px;
+}
+
+.sortByLabel {
+    margin-right: 10px;
+}
